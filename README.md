@@ -1,6 +1,6 @@
 ### Nabil Shah
 
-FDE / AI Engineer & Researcher — recent grad, University of Leicester (BSc Software Engineering, First Class, top 5%).
+FDE / AI Engineer & Researcher - recent grad, University of Leicester (BSc Software Engineering, First Class 80%, top 5%).
 
 I build production-shaped AI systems: deterministic tool execution, human approval gates, and eval-gated pipelines not just model demos.
 
