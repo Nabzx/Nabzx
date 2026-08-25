@@ -1,8 +1,8 @@
 ### Nabil Shah
 
-FDE / AI Engineer & Researcher - recent grad, University of Leicester (BSc Software Engineering, First Class 80%, top 5%).
+FDE / AI Engineer & Researcher - recent grad (BSc SWE, First Class 80%, top 5%).
 
-I build production-shaped AI systems: deterministic tool execution, human approval gates, and eval-gated pipelines not just model demos.
+I ship AI systems and products.
 
 **A few things worth a look:**
 - [AgentOps](https://github.com/Nabzx/agentops) — AI support-ops platform with human approval gates, hash-chained audit logs, and `make verify-all` gated evals
