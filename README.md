@@ -1,7 +1,5 @@
 ### Nabil Shah
 
-FDE / AI Engineer & Researcher.
-
-I ship things that help people.
+Aspiring founder, software engineer and polymath.
 
 [LinkedIn](https://www.linkedin.com/in/nabilshah/)
